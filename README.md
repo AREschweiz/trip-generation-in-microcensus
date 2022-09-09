@@ -15,7 +15,7 @@ You also need the raw data of the Transport and Mobility Microcensus 2015, not i
 
 ### Run the code
 
-Please copy the files haushalte.csv and zielpersonen.csv of the Mobility and Transport Microcensus 2015 that you receive from the Federal Statistical Office in the folders <a href="https://github.com/antonindanalet/trip-generation-in-microcensus/tree/main/data/input/mtmc/2015">data/input/mtmc/2015/</a>. Then run <a href="https://github.com/antonindanalet/trip-generation-in-microcensus/blob/main/src/run_trip_generation.py">run_trip_generation.py</a>.
+Please copy the files haushalte.csv and zielpersonen.csv of the Mobility and Transport Microcensus 2015 that you receive from the Federal Statistical Office in the folders <a href="https://github.com/AREschweiz/trip-generation-in-microcensus/tree/main/data/input/mtmc/2015">data/input/mtmc/2015/</a>. Then run <a href="https://github.com/AREschweiz/trip-generation-in-microcensus/blob/main/src/run_trip_generation.py">run_trip_generation.py</a>.
 
 DO NOT commit or share in any way the CSV files haushalte.csv and zielpersonen.csv! These are personal data.
 
